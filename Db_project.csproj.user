@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ABSENTREPORT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pwithevents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminFunctionality.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ENROLLEDDATA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EVENTDETAILS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventsCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homematerial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageParticipants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRESENTIESDATA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="regiterParticipants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Scheduling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userDeletion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usermanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usersignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
